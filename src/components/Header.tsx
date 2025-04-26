@@ -18,7 +18,7 @@ export const Header = () => {
             </li>
             <li className="hidden md:block">
               <a href="#two-player" className="hover:text-yellow-300 transition-colors">
-                Two Player
+                Two Players
               </a>
             </li>
             <li className="hidden md:block">
